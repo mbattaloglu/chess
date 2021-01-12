@@ -1,4 +1,9 @@
-# Command-Line Interface Chess Game
+# Chess
 
-# It is built for Object Oriented Programming course, May 2020.
-# It has not all functionallities, but it is playable.
+Command-Line Interface Chess Game
+
+# Functionalities:
+  Promoting: It promotes pawn to a queen when it comes last square.
+  
+Playable for 2 person.
+It is built for Object Oriented Programming course, May 2020.
